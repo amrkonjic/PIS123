@@ -8,5 +8,6 @@ namespace PIS123
 {
     internal class Class1
     {//komentar
+    {//komentar2
     }
 }
