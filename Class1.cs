@@ -7,6 +7,6 @@ using System.Threading.Tasks;
 namespace PIS123
 {
     internal class Class1
-    {
+    {//komentar
     }
 }
